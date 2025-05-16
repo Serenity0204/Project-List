@@ -6,7 +6,9 @@ This repository contains a collection of projects that I've worked on. Each proj
 ### STM32
 1. **[YouLostIt PrivTag](https://github.com/Serenity0204/You-Lost-It-PrivTag)** </br>
    YouLostIt is a privacy-enabled lost-item tracker designed to help users locate misplaced belongings. The device attaches to an item (e.g., a backpack) and uses an accelerometer to detect when it has remained stationary for an extended period, signaling that it is lost.
-
+## C System Programming Projects
+1. **[Memory Allocator](https://github.com/Serenity0204/Memory-Allocator)** </br>
+This project implements a simplified dynamic memory allocator in C, mimicking the behavior of `malloc` and `free`. The allocator manages a simulated heap using memory-mapped pages and supports dynamic memory requests with custom metadata handling, alignment, and block coalescing to mitigate fragmentation.
 
 ## Getting Started
 
