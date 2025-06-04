@@ -6,6 +6,10 @@ This repository contains a collection of projects that I've worked on. Each proj
 ### STM32
 1. **[YouLostIt PrivTag](https://github.com/Serenity0204/You-Lost-It-PrivTag)** </br>
    YouLostIt is a privacy-enabled lost-item tracker designed to help users locate misplaced belongings. The device attaches to an item (e.g., a backpack) and uses an accelerometer to detect when it has remained stationary for an extended period, signaling that it is lost.
+### ESP32
+1. **[Micro-Mobility Device Tracker](https://github.com/Serenity0204/Micro-mobility-device-tracker)** </br>
+Micro-Mobility Device Tracker is a real-time anti-theft system for micro-mobility devices built using an ESP32 Microcontroller. It detects unauthorized movement with an accelerometer and triggers an audible alarm, GPS tracking, and camera capture. A ResNet-34-based face recognition model verifies the owner's identity. Users can monitor and control the device remotely through a cloud-based web interface.
+
 ## C System Programming Projects
 1. **[Memory Allocator](https://github.com/Serenity0204/Memory-Allocator)** </br>
 This project implements a simplified dynamic memory allocator in C, mimicking the behavior of `malloc` and `free`. The allocator manages a simulated heap using memory-mapped pages and supports dynamic memory requests with custom metadata handling, alignment, and block coalescing to mitigate fragmentation.
