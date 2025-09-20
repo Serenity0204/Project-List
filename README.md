@@ -14,6 +14,10 @@ Micro-Mobility Device Tracker is a real-time anti-theft system for micro-mobilit
 1. **[Memory Allocator](https://github.com/Serenity0204/Memory-Allocator)** </br>
 This project implements a simplified dynamic memory allocator in C, mimicking the behavior of `malloc` and `free`. The allocator manages a simulated heap using memory-mapped pages and supports dynamic memory requests with custom metadata handling, alignment, and block coalescing to mitigate fragmentation.
 
+## Systemverilog Projects
+1. **[Sha256 Bitcoin Hash](https://github.com/Serenity0204/Sha256-Bitcoin-Hash)** </br>
+A hardware implementation of sha256 hashing algorithm and Bitcoin miner.
+
 ## Getting Started
 
 To explore any of the projects, simply navigate to the respective directory and follow the instructions provided in the project's README. Each project may have specific build or execution requirements.
